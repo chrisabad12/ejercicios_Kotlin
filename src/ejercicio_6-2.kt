@@ -7,7 +7,7 @@ fun main() {
     frutas.remove("Banana")
     println("Después de eliminar: $frutas")
 
-    frutas.add("Durazno")
+    frutas.add("Arándano")
     frutas.sort()
     println("Ordenadas: $frutas")
 }
